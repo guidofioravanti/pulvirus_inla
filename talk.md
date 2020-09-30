@@ -9,10 +9,15 @@ Analisi  delle  serie  di  dati  di  concentrazione  di  `\(PM_{10}\)`,  `\(PM_{
 ---
 
 layout: false
+class: split-50-50
 
 ### [The effect of Corona Virus Lockdown on Air Pollution: Evidence from the City of Brescia in Lombardia Region (Italy)](https://www.sciencedirect.com/science/article/pii/S1352231020305288)
 
-Interrupted time series regression
+.left-column[
+<img src="img/paper.png" style="height: 80px;"/>
+]
+
+.right-column[Interrupted time series regression
 
 #### Autore
 
@@ -27,6 +32,4 @@ Interrupted time series regression
 - Brescia:
   - `\(NO_2\)`: 3 stazioni
   - `\(PM_{10}\)`: 2 stazioni
-
-
-
+]
