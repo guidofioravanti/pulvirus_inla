@@ -58,11 +58,11 @@ class: center
 
 Pacchetto software: `\(\tt r-inla\)`
 
-<img src="img/mesh.png" style="height: 320px;"/>
+<img src="img/mesh.png" style="height: 310px;"/>
 
 **Special guests**:
 
-- **Sara Martino**: Norwegian University of Science and Technology, Trondheim, Norway
-- **Michela Cameletti**: University of Bergamo,  Bergamo, Italy
+**Sara Martino**: Norwegian University of Science and Technology, Trondheim, Norway
+**Michela Cameletti**: University of Bergamo,  Bergamo, Italy
  
 
