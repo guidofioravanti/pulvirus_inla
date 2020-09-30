@@ -33,10 +33,9 @@ class: center
   
 `$$ y_{t}=\alpha_{0}+\alpha_{1}T+\alpha_{2} \mathbb 1^L_{t}+\alpha_{3}(T \mathbb 1^L_{t})+X_{t} \beta+\eta_{t}$$`
 
-
 `$$ \eta_{t}=\phi_{1}\eta_{t-1}+\ldots+\phi_{p}\eta_{t-p}+\epsilon_{t}+\theta_{1}\epsilon_{t-1}+\ldots+\theta_{q}\epsilon_{t-q}$$`
 
 Regreggion error term `\(𝜂_{𝑡}\)`: 
 - processo ARMA con coefficienti `\(\phi_{1}\)`,`\(\ldots\)`,`\(\phi_{𝑝}\)`,`\(\theta_{1}\)`,`\(\ldots\)`,`\(\theta_{q}\)`  
-- `\(\epsilon_{𝑡}\)`: `\(\mathcal{N}(\mu,\,\sigma^{2})\)`
+- `\(\epsilon_{𝑡}\)`: `\(\mathcal{N}(0,\,\sigma^{2})\)`
 
