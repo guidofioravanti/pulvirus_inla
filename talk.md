@@ -15,9 +15,7 @@ class: center
 
 <img src="img/paper.png" style="height: 480px;"/>
 
-#### Autore
-
-- Michela Cameletti
+.footnote[Autore: Michela Cameletti]
 
 ---
 
