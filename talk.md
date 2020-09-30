@@ -15,13 +15,13 @@ class: center
 
 <img src="img/paper.png" style="height: 480px;"/>
 
----
-
-### Interrupted time series regression
-
 #### Autore
 
 - Michela Cameletti
+
+---
+
+# Interrupted time series regression
 
 #### Periodo di studio 
 
