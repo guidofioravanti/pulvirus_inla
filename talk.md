@@ -49,6 +49,8 @@ class: middle, center
 
 ---
 
+class: middle, center
+
 ### INLA & SPDE
 
 - INLA: Integrated Nested Laplace Approximation
@@ -56,7 +58,7 @@ class: middle, center
 
 Pacchetto: `\(\tt r-inla\)`
 
-<img src="img/mesh.png" style="height: 480px;"/>
+<img src="img/mesh.png" style="height: 720px;"/>
 
 
  
