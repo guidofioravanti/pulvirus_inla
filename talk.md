@@ -40,6 +40,7 @@ Regreggion error term `\(𝜂_{𝑡}\)`: processo ARMA con coefficienti `\(\phi_
 `$$\epsilon_{𝑡} \sim \mathcal{N}(0,\,\sigma^{2})$$`
 
 ---
+layout: true
 class: middle, center
 
 ### [Tobler’s First Law of Geography](https://en.wikipedia.org/wiki/Tobler%27s_first_law_of_geography)
@@ -55,6 +56,7 @@ class: middle, center
 
 Pacchetto: `\(\tt r-inla\)`
 
+<img src="img/mesh.png" style="width: 60px;"/>
 
 
  
