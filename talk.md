@@ -56,10 +56,13 @@ class: center
 - INLA: Integrated Nested Laplace Approximation
 - Stochastic Partial Differential Equation 
 
-Pacchetto: `\(\tt r-inla\)`
+Pacchetto software: `\(\tt r-inla\)`
 
 <img src="img/mesh.png" style="height: 500px;"/>
 
+#### Special guests
 
+Sara Martino: Norwegian University of Science and Technology, Trondheim, Norway
+Michela Cameletti: University of Bergamo,  Bergamo, Italy
  
 
