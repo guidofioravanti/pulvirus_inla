@@ -33,3 +33,10 @@ class: center
   
 `$$ y_{t}=\alpha_{0}+\alpha_{1}T+\alpha_{2} \mathbb 1^L_{t}+\alpha_{3}(T \mathbb 1^L_{t})+X_{t} \beta+\eta_{t}$$`
 
+
+`$$ \eta_{t}=\alpha_{0}+\alpha_{1}T+\alpha_{2} \mathbb 1^L_{t}+\alpha_{3}(T \mathbb 1^L_{t})+X_{t} \beta+\eta_{t}$$`
+
+```
+In particular, the regression error term𝜂𝑡follows an ARMA processwith coefficients 𝜙1,...,𝜙𝑝,𝜃1,...,𝜃𝑞,  
+whereas the innovation error term𝜖𝑡is assumed to be a Normally distributed white-noise process withzero-mean and variance𝜎2.
+```
