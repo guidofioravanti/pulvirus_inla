@@ -46,6 +46,16 @@ class: middle, center
 
 <img src="img/tobler.jpeg" style="width: 400px;"/>
 
+---
+
+### INLA & SPDE
+
+- INLA: Integrated Nested Laplace Approximation
+- Stochastic Partial Differential Equation 
+
+Pacchetto: `\(\tt r-inla\)`
+
+
 
  
 
