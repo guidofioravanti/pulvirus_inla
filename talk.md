@@ -51,12 +51,10 @@ class: middle, center
 
 class: left
 
-#### INLA & SPDE
+#### `\(\tt r-inla\)`: INLA & SPDE
 
 - INLA: Integrated Nested Laplace Approximation
 - Stochastic Partial Differential Equation 
-
-Pacchetto software: `\(\tt r-inla\)`
 
 <img src="img/mesh.png" style="height: 310px;"/>
 
