@@ -4,7 +4,7 @@ class: middle, center
 ---
 # Obiettivo
 
-Analisi  delle  serie  di  dati  di  concentrazione  di  `\(PM{10}\)`,  `\(PM{2.5}\)`,  `\(NO{2}\)`  e  `\(O{3}\)`
+Analisi  delle  serie  di  dati  di  concentrazione  di  `\(PM_{10}\)`,  `\(PM_{2.5}\)`,  `\(NO_{2}\)`  e  `\(O_{3}\)`
 
 ---
 # Riferimento
