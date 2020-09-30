@@ -15,8 +15,6 @@ class: center
 
 <img src="img/paper.png" style="height: 480px;"/>
 
-.footnote[Autore: Michela Cameletti]
-
 ---
 
 # Interrupted time series regression
@@ -30,4 +28,8 @@ class: center
 - Brescia:
   - `\(NO_2\)`: 3 stazioni
   - `\(PM_{10}\)`: 2 stazioni
+  
+#### Formula:
+  
+`$$ y_{t}=\alpha_{0}$$`
 
