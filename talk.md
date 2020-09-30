@@ -58,7 +58,7 @@ class: center
 
 Pacchetto software: `\(\tt r-inla\)`
 
-<img src="img/mesh.png" style="height: 350px;"/>
+<img src="img/mesh.png" style="height: 320px;"/>
 
 #### Special guests
 
