@@ -4,7 +4,7 @@ class: middle, center
 ---
 # Obiettivo
 
-Analisi  delle  serie  di  dati  di  concentrazione  di  \PM_{10}\,  \PM_{2.5}\,  \NO_2\  e  \O_3\
+Analisi  delle  serie  di  dati  di  concentrazione  di  `\PM_{10}\`,  `\PM_{2.5}\`,  `\NO_2\`  e  `\O_3\`
 
 ---
 # Riferimento
@@ -13,8 +13,8 @@ Analisi  delle  serie  di  dati  di  concentrazione  di  \PM_{10}\,  \PM_{2.5}\,
 
 Autore: Michela Cameletti
 
-\NO_2\: 3 stazioni
-\PM_{10}\: 2 stazioni
+`\NO_2\`: 3 stazioni
+`\PM_{10}\`: 2 stazioni
 
 Periodo: 1 Gennaio - 27 Marzo 2020
 
