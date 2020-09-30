@@ -31,5 +31,5 @@ class: center
   
 #### Formula:
   
-`$$ y_{t}=\alpha_{0}+\alpha_{1}T+\alpha_{2} \mathbb 1^L_{t}$$`
+`$$ y_{t}=\alpha_{0}+\alpha_{1}T+\alpha_{2} \mathbb 1^L_{t}+\alèha_{3}(T \mathbb 1^L_{t})+X_{t}\beta+\ni_{t}$$`
 
