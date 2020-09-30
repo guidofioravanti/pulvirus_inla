@@ -58,7 +58,7 @@ class: middle, center
 
 Pacchetto: `\(\tt r-inla\)`
 
-<img src="img/mesh.png" style="height: 640px;"/>
+<img src="img/mesh.png" style="height: 600px;"/>
 
 
  
