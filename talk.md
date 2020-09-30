@@ -15,8 +15,7 @@ The effect of Corona Virus Lockdown on Air Pollution: <br>Evidence from the City
 
 Michela Cameletti
 
-
-
+### Periodo di studio 
 
 `\(NO_2\)`: 3 stazioni
 `\(PM_{10}\)`: 2 stazioni
