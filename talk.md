@@ -36,7 +36,7 @@ class: center
 
 `$$ \eta_{t}=\phi_{1}\eta_{t-1}+\ldots+\phi_{p}\eta_{t-p}+\epsilon_{t}+\theta_{1}\epsilon_{t-1}+\ldots+\theta_{q}\epsilon_{t-q}$$`
 
-```
-In particular, the regression error term𝜂𝑡follows an ARMA processwith coefficients 𝜙1,...,𝜙𝑝,𝜃1,...,𝜃𝑞,  
-whereas the innovation error term𝜖𝑡is assumed to be a Normally distributed white-noise process withzero-mean and variance𝜎2.
-```
+Regreggion error term `\(𝜂_{𝑡}\)`: processo ARMA process con coefficienti `$$ \phi_{1},\ldots,\phi_{𝑝},\theta_{1},\ldots,\theta_{q}$$`  
+
+`$$ \epsilon_{𝑡} \sim \mathcal{N}(\mu,\,\sigma^{2})$$`
+
