@@ -34,7 +34,7 @@ class: center
 `$$ y_{t}=\alpha_{0}+\alpha_{1}T+\alpha_{2} \mathbb 1^L_{t}+\alpha_{3}(T \mathbb 1^L_{t})+X_{t} \beta+\eta_{t}$$`
 
 
-`$$ \eta_{t}=\alpha_{0}+\alpha_{1}T+\alpha_{2} \mathbb 1^L_{t}+\alpha_{3}(T \mathbb 1^L_{t})+X_{t} \beta+\eta_{t}$$`
+`$$ \eta_{t}=\phi_{1}\eta_{t-1}+\ldots+\phi_{p}\eta_{t-p}+\epsilon_{t}+\theta_{1}\epsilon_{t-1}+\ldots+\theta_{q}\epsilon_{t-q}$$`
 
 ```
 In particular, the regression error term𝜂𝑡follows an ARMA processwith coefficients 𝜙1,...,𝜙𝑝,𝜃1,...,𝜃𝑞,  
