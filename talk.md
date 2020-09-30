@@ -44,7 +44,8 @@ class: middle, center
 
 ### [Tobler’s First Law of Geography](https://en.wikipedia.org/wiki/Tobler%27s_first_law_of_geography)
 
-```Everything is related to everything else, but near things are more related than distant things``` 
+<img src="img/tobler.jpeg" style="height: 800px;"/>
+
 
  
 
