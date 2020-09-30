@@ -37,5 +37,5 @@ class: center
 
 Regreggion error term `\(𝜂_{𝑡}\)`: processo ARMA con coefficienti `\(\phi_{1}\)`,`\(\ldots\)`,`\(\phi_{𝑝}\)`,`\(\theta_{1}\)`,`\(\ldots\)`,`\(\theta_{q}\)`  
 
-`$$\epsilon_{𝑡}\) \sim \mathcal{N}(0,\,\sigma^{2})$$`
+`$$\epsilon_{𝑡} \sim \mathcal{N}(0,\,\sigma^{2})$$`
 
