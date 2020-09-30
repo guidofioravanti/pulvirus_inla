@@ -44,7 +44,7 @@ class: middle, center
 
 ### [Tobler’s First Law of Geography](https://en.wikipedia.org/wiki/Tobler%27s_first_law_of_geography)
 
-<img src="img/tobler.jpeg" style="height: 800px;"/>
+<img src="img/tobler.jpeg" style="width: 400px;"/>
 
 
  
