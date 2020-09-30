@@ -7,11 +7,12 @@ class: middle, center
 Analisi  delle  serie  di  dati  di  concentrazione  di  `\(PM_{10}\)`,  `\(PM_{2.5}\)`,  `\(NO_{2}\)`  e  `\(O_{3}\)`
 
 ---
-# Riferimento
+# Riferimento bibliografico
 
-[The effect of Corona Virus Lockdown on Air Pollution: <br>Evidence from the City of Brescia in Lombardia Region (Italy)](https://www.sciencedirect.com/science/article/pii/S1352231020305288)
+The effect of Corona Virus Lockdown on Air Pollution: <br>Evidence from the City of Brescia in Lombardia Region (Italy)
 
-Autore: Michela Cameletti
+.footnote[Michela Cameletti]
+.footnote[Disponibile [on-line](https://www.sciencedirect.com/science/article/pii/S1352231020305288)]
 
 `\(NO_2\)`: 3 stazioni
 `\(PM_{10}\)`: 2 stazioni
