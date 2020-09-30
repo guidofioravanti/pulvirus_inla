@@ -17,7 +17,7 @@ class: center
 
 ---
 
-# Interrupted time series regression
+### Interrupted time series regression
 
 #### Periodo di studio 
 
