@@ -62,7 +62,7 @@ Pacchetto software: `\(\tt r-inla\)`
 
 **Special guests**:
 
-**Sara Martino**: Norwegian University of Science and Technology, Trondheim
+- **Sara Martino**: Norwegian University of Science and Technology, Trondheim
 
-**Michela Cameletti**: University of Bergamo 
+- **Michela Cameletti**: University of Bergamo 
 
