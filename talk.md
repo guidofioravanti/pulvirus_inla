@@ -13,11 +13,12 @@ class: split-50-50
 
 ### [The effect of Corona Virus Lockdown on Air Pollution: Evidence from the City of Brescia in Lombardia Region (Italy)](https://www.sciencedirect.com/science/article/pii/S1352231020305288)
 
-.left-column[
-<img src="img/paper.png" style="width: 160px;"/>
+.column[
+<img src="img/paper.png" style="height: 320px;"/>
 ]
+.column[
 
-.right-column[Interrupted time series regression
+Interrupted time series regression
 
 #### Autore
 
