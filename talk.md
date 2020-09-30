@@ -49,7 +49,7 @@ class: middle, center
 
 ---
 
-class: middle, center
+class: center
 
 ### INLA & SPDE
 
