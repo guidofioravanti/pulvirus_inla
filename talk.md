@@ -11,7 +11,8 @@ Analisi  delle  serie  di  dati  di  concentrazione  di  `\(PM_{10}\)`,  `\(PM_{
 
 The effect of Corona Virus Lockdown on Air Pollution: <br>Evidence from the City of Brescia in Lombardia Region (Italy)
 
-.footnote[Michela Cameletti]
+
+
 .footnote[Disponibile [on-line](https://www.sciencedirect.com/science/article/pii/S1352231020305288)]
 
 `\(NO_2\)`: 3 stazioni
