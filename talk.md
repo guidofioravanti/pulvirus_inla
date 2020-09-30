@@ -51,7 +51,7 @@ class: middle, center
 
 class: left
 
-#### `\(\tt r-inla\)`: INLA & SPDE
+#### INLA & SPDE: `\(\tt r-inla\)`
 
 - INLA: Integrated Nested Laplace Approximation
 - Stochastic Partial Differential Equation 
