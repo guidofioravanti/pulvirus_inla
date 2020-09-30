@@ -39,6 +39,8 @@ Regreggion error term `\(𝜂_{𝑡}\)`: processo ARMA con coefficienti `\(\phi_
 
 `$$\epsilon_{𝑡} \sim \mathcal{N}(0,\,\sigma^{2})$$`
 
+---
+
 ### Tobler’s First Law of Geography 
 
 ```Everything is related to everything else, but near things are more related than distant things’’ 
