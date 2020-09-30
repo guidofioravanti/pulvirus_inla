@@ -41,7 +41,6 @@ Regreggion error term `\(𝜂_{𝑡}\)`: processo ARMA con coefficienti `\(\phi_
 
 ---
 
-layout: true
 class: middle, center
 
 ### [Tobler’s First Law of Geography](https://en.wikipedia.org/wiki/Tobler%27s_first_law_of_geography)
