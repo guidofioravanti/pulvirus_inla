@@ -17,10 +17,16 @@ Michela Cameletti
 
 ### Periodo di studio 
 
-`\(NO_2\)`: 3 stazioni
-`\(PM_{10}\)`: 2 stazioni
+1 Gennaio - 27 Marzo 2020
 
-Periodo: 1 Gennaio - 27 Marzo 2020
+### Stazioni
+
+Brescia:
+
+- `\(NO_2\)`: 3 stazioni
+- `\(PM_{10}\)`: 2 stazioni
+
+### Metodo 
 
 Interrupted time series regression
 
