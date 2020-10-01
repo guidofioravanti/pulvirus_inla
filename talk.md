@@ -60,7 +60,5 @@ class: left
 Riferimento: 
 
 **[Spatio-temporal modelling of `\(PM_{10}\)` daily concentrations in Italy using the SPDE approach](https://arxiv.org/abs/2009.10476)**
-- Guido Fioravanti, ISPRA
-- Sara Martino: Norwegian University of Science and Technology, Trondheim
-- Michela Cameletti: University of Bergamo 
-- Giorgio Cattani: ISPRA
+- Guido Fioravanti (ISPRA), Sara Martino (Norwegian University of Science and Technology), Michela Cameletti (University of Bergamo), Giorgio Cattani (ISPRA)
+- Submitted to: ATMOSPHERIC ENVIRONMENT
