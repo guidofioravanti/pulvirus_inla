@@ -5,7 +5,7 @@ class: middle, center
 background-image: url(./img/ddp-NiIoJBrsgCw-unsplash.jpg)
 
 
-### PULVIRUS
+# PULVIRUS
 
 Analisi  delle  serie  di  dati  di  concentrazione  di <br> `\(PM_{10}\)`,  `\(PM_{2.5}\)`,  `\(NO_{2}\)`, `\(O_{3}\)`
 
