@@ -57,8 +57,6 @@ class: left
 
 <img src="img/mesh.png" style="height: 310px;"/>
 
-Riferimento: 
-
-**[Spatio-temporal modelling of `\(PM_{10}\)` daily concentrations in Italy using the SPDE approach](https://arxiv.org/abs/2009.10476)**
+Riferimento: **[Spatio-temporal modelling of `\(PM_{10}\)` daily concentrations in Italy using the SPDE approach](https://arxiv.org/abs/2009.10476)**
 - Guido Fioravanti (ISPRA), Sara Martino (Norwegian University of Science and Technology), Michela Cameletti (University of Bergamo), Giorgio Cattani (ISPRA)
 - Submitted to: ATMOSPHERIC ENVIRONMENT
