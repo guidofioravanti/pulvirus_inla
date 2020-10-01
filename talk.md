@@ -3,7 +3,11 @@ layout: true
 class: middle, center
 ---
 background-image: url(./img/ddp-NiIoJBrsgCw-unsplash.jpg)
-### Analisi  delle  serie  di  dati  di  concentrazione  di <br> `\(PM_{10}\)`,  `\(PM_{2.5}\)`,  `\(NO_{2}\)`, `\(O_{3}\)`
+
+
+### PULVIRUS
+
+Analisi  delle  serie  di  dati  di  concentrazione  di <br> `\(PM_{10}\)`,  `\(PM_{2.5}\)`,  `\(NO_{2}\)`, `\(O_{3}\)`
 
 ---
 
